@@ -1,0 +1,10 @@
+# Site navigation links
+
+- title: Home
+  url: /
+- title: Articles
+  url: /articles/
+- title: Policy Areas
+  url: /categories/
+- title: Search
+  url: /search/

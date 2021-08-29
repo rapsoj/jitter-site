@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+rapsoj:
+  name: rapsoj
+  picture: /images/bio-photo-2.jpg
+  twitter: "@jittered_data"
+  links:
+    - title: Twitter
+      url: https://twitter.com/billyrick
+      icon: fab fa-twitter-square
