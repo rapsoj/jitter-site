@@ -18,7 +18,7 @@ last_modified_at: 2021-01-15T21:57:00-05:00
 
 # Key takeaways:
 
-* There has been no trend in the ratio of housing completions to population growth since the 1980s
+* There has been no trend in the ratio of housing completions to population growth over the past forty years
 * There have been changes in the types of homes that are being built
 * Over the past twenty years, increasingly fewer single-detached houses have been built, while apartment units have been completed in their place
 
