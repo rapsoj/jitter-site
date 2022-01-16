@@ -3,7 +3,6 @@ title: "Have Canadian housing completions kept up with population growth?"
 image:
   path: /images/2021-01-15-canada-housing-supply/cover.png
   thumbnail: /images/2021-01-15-canada-housing-supply/thumbnail.png
-  caption: ""
 excerpt: "Concerns about housing supply have dominated discussions about the Canadian housing crisis."
 categories:
   - Housing
