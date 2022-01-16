@@ -18,8 +18,8 @@ last_modified_at: 2021-01-15T21:57:00-05:00
 
 # Key takeaways:
 
-* There is no trend in the ratio of housing completions to population growth since the 1980s
-* There are trends in the types of homes that are being built
+* There has been no trend in the ratio of housing completions to population growth since the 1980s
+* There have been changes in the types of homes that are being built
 * Over the past twenty years, increasingly fewer single-detached houses have been built, while apartment units have been completed in their place
 
 **Canadian Housing Crisis** A significant rise in Canadian real estate prices beginning in 2002 that has caused housing to become increasingly unaffordable.
@@ -101,7 +101,7 @@ Though completion rates for semi-detached houses and row houses, commonly referr
 | 2000-2010 | 163.1                                               |
 | 2010-2020 | 228.3                                               |
 
-# How do you interpret the ratio of housing completions to population growth?
+# How can the ratio of housing completions to population growth be interpreted?
 
 Understanding housing completions in terms of houses built per population increase can be somewhat unintuitive. To produce a more accessible metric, the ratio can be flipped to show the population increase per housing completion. For example, instead of saying that 483.8 houses were built for every 1,000 people added to the Canadian population between 2010 to 2020, it can be said that one house was built for every 2.07 people that were added to the population.
 
@@ -121,7 +121,7 @@ When put into these terms, houses appear to be built at a higher rate than the a
 
 # Can trends housing completion ratios be quantified?
 
-Though it is possible to visually examine patterns in housing completion, the actual trend in the ratio of population growth to housing completions can be quantified. However, this type of analysis can still be heavily biased by which range of years is chosen to be examined as cutting out specific time periods may hide parts of the trend. Here are some possible ways to measure the year-to-year trend in the housing ratio:
+Though it is possible to visually examine patterns in housing completion, the actual trend in the ratio of population growth to housing completions can also be quantified. However, this type of analysis has the potential to be heavily biased by which range of years is chosen to be examined as cutting out specific time periods may hide parts of the trend. Here are some possible ways to measure the year-to-year trend in the housing ratio:
 
 | Time Period | Annual Change in Completion to Population Change Ratio | Significance Level |
 |-------------|--------------------------------------------------------|--------------------|
@@ -141,7 +141,7 @@ These trends remain the same even when 2020 and 2021 are excluded, indicating th
 
 # What does this mean for the Canadian housing crisis?
 
-The ratio of housing completions to population change has not followed any detectable trend since the 1980s, meaning that recent intensification of the housing crisis cannot be attributed to recent changes in housing completions failing to keep up with population growth. 
+The ratio of housing completions to population change has not followed any detectable trend since the 1980s, meaning that recent intensification of the housing crisis cannot be attributed housing completions failing to keep up with popoulation growth any more than they have over the past forty years.
 
 Instead, other factors may contribute to a perceived scarcity in housing, including:
 
