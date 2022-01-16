@@ -119,7 +119,7 @@ When put into these terms, houses appear to be built at a higher rate than the a
 | 2000-2010 | 1.72                                       |
 | 2010-2020 | 2.07                                       |
 
-# Can trends housing completion ratios be quantified?
+# Can trends in housing completion ratios be quantified?
 
 Though it is possible to visually examine patterns in housing completion, the actual trend in the ratio of population growth to housing completions can also be quantified. However, this type of analysis has the potential to be heavily biased by which range of years is chosen to be examined as cutting out specific time periods may hide parts of the trend. Here are some possible ways to measure the year-to-year trend in the housing ratio:
 
