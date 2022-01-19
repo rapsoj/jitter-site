@@ -37,27 +37,27 @@ It is [often claimed](https://www.scotiabank.com/ca/en/about/economics/economics
 
 Though immigration has increased in recent years, Canada's low birth rates and aging population (along with emigration) have served to moderate population growth. Though the population is indeed increasing faster than in recent years, previous decades have sustained higher population increases.
 
-| Decade    | Population Change |
-|-----------|-------------------|
-| 1950-1960 | 405.5 K           |
-| 1960-1970 | 343.3 K           |
-| 1970-1980 | 317.5 K           |
-| 1980-1990 | 320.8 K           |
-| 1990-2000 | 307.4 K           |
-| 2000-2010 | 330.9 K           |
-| 2010-2020 | 388.7 K           |
+| Decade    | Average Annual Population Change |
+|-----------|----------------------------------|
+| 1950-1960 | 405.5 K                          |
+| 1960-1970 | 343.3 K                          |
+| 1970-1980 | 317.5 K                          |
+| 1980-1990 | 320.8 K                          |
+| 1990-2000 | 307.4 K                          |
+| 2000-2010 | 330.9 K                          |
+| 2010-2020 | 388.7 K                          |
 
 Similarly, the raw number of housing completions in Canada has remained above historic averages in recent years, with increases mirroring population growth. 
 
-| Decade    | Housing Completions |
-|-----------|---------------------|
-| 1950-1960 | 112.7 K             |
-| 1960-1970 | 150.2 K             |
-| 1970-1980 | 224.3 K             |
-| 1980-1990 | 180.3 K             |
-| 1990-2000 | 151.3 K             |
-| 2000-2010 | 192.0 K             |
-| 2010-2020 | 188.1 K             |
+| Decade    | Average Annual Housing Completions |
+|-----------|------------------------------------|
+| 1950-1960 | 112.7 K                            |
+| 1960-1970 | 150.2 K                            |
+| 1970-1980 | 224.3 K                            |
+| 1980-1990 | 180.3 K                            |
+| 1990-2000 | 151.3 K                            |
+| 2000-2010 | 192.0 K                            |
+| 2010-2020 | 188.1 K                            |
 
 Putting these two metrics together, a more informative ratio of housing completions to population change can be obtained.
 
