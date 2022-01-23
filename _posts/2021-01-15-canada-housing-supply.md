@@ -4,6 +4,7 @@ image:
   path: /images/2021-01-15-canada-housing-supply/cover.png
   thumbnail: /images/2021-01-15-canada-housing-supply/thumbnail.png
 excerpt: "It is often claimed that the Canadian housing supply is not keeping up with population growth. Under analysis of Canada Mortgage and Housing Corporation (CMHC) data, however, this effect is not so clear-cut."
+search: false
 categories:
   - Housing
   - Infrastructure
