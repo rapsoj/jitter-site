@@ -36,7 +36,7 @@ It is [often claimed](https://www.scotiabank.com/ca/en/about/economics/economics
 
 ![no-alignment]({{ '/images/2021-01-15-canada-housing-supply/pop_and_completions.png' | absolute_url }})
 
-Though immigration has increased in recent years, Canada's low birth rates and aging population (along with emigration) have served to moderate population growth. Though the population is indeed increasing faster than in recent years, previous decades have sustained higher population increases.
+Though immigration has increased in recent years, Canada's low birth rates and aging population (along with emigration) have served to moderate population growth. Previous decades have even sustained higher population increases than current rates.
 
 | Decade    | Average Annual Population Change |
 |-----------|----------------------------------|
