@@ -36,7 +36,7 @@ It is [often claimed](https://www.scotiabank.com/ca/en/about/economics/economics
 
 ![no-alignment]({{ '/images/2021-01-15-canada-housing-supply/pop_and_completions.png' | absolute_url }})
 
-Though immigration has increased in recent years, Canada's low birth rates and aging population (along with emigration) have served to moderate population growth. Though the population is indeed increasing faster than in recent years, previous decades have sustained higher population increases. (Note: Population numbers account for [temporary residents, including students, workers, and refugee claimants](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3601#a2)).
+Though immigration has increased in recent years, Canada's low birth rates and aging population (along with emigration) have served to moderate population growth. Though the population is indeed increasing faster than in recent years, previous decades have sustained higher population increases.
 
 | Decade    | Average Annual Population Change |
 |-----------|----------------------------------|
@@ -47,6 +47,8 @@ Though immigration has increased in recent years, Canada's low birth rates and a
 | 1990-2000 | 307.4 K                          |
 | 2000-2010 | 330.9 K                          |
 | 2010-2020 | 388.7 K                          |
+
+*Note: Population numbers account for [temporary residents, including students, workers, and refugee claimants](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3601#a2).*
 
 Similarly, the raw number of housing completions in Canada has remained above historic averages in recent years, with increases mirroring population growth. 
 
