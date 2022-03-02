@@ -3,7 +3,7 @@ title: "Which energy source has the fewest disadvantages?"
 image:
   path: /images/2022-02-28-energy-disadvantages/cover.png
   thumbnail: /images/2022-02-28-energy-disadvantages/thumbnail.png
-excerpt: "As nations around the world seek to adopt sustainable methods of energy production, governments and citizens are debating over which energy sources are best suited for the task. The answer to this question is crucial, as major investments made now will impact energy generation for several decades to come."
+excerpt: "As nations around the world seek to adopt sustainable methods of energy production, determining which energy source is best suited to the task is crucial, as major investments made now will impact energy generation for several decades to come."
 search: false
 categories:
   - Energy
