@@ -4,7 +4,6 @@ image:
   path: /images/2022-02-28-energy-disadvantages/cover.png
   thumbnail: /images/2022-02-28-energy-disadvantages/thumbnail.png
 excerpt: "As nations around the world seek to adopt sustainable methods of energy production, governments and citizens are debating over which energy sources are best suited for the task. The answer to this question is crucial, as major investments made now will impact energy generation for several decades to come."
-search: false
 categories:
   - Energy
 tags:
@@ -151,6 +150,5 @@ Energy capacity and reliability could also be considered, though unlike the othe
 Ultimately, there is no perfect energy source. Every method of producing energy has disadvantages that require value-driven guidance on which trade-offs are tolerable. Further, geographic, operational, and resource constraints will also limit which energy sources can feasibly be implemented in a given region. 
 
 Nonetheless, comparing energy disadvantages side-by-side can simplify this multidimensional problem and serve as a platform for discussion in the energy transition debate.
-
 
 *All data and code for this analysis can be found [here](https://github.com/rapsoj/energy-disadvantages).*
