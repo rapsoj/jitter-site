@@ -144,7 +144,6 @@ Likewise, political opposition to implementing the energy source would be intere
 
 Energy capacity and reliability could also be considered, though unlike the other metrics chosen, this would require higher values to be interpreted as "good" and lower values as "bad", which might make interpretation of the graph difficult.
 
-
 # So which energy source has the fewest disadvantages?
 
 Ultimately, there is no perfect energy source. Every method of producing energy has disadvantages that require value-driven guidance on which trade-offs are tolerable. Further, geographic, operational, and resource constraints will also limit which energy sources can feasibly be implemented in a given region. 
