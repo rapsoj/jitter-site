@@ -52,7 +52,7 @@ Due to a lack of available data on battery storage, all comparisons made for sol
 
 ![no-alignment]({{ '/images/2022-02-28-energy-disadvantages/disadvantages_full.png' | absolute_url }})
 
-*Emissions*
+## Emissions
 
 Using data compiled by [Our World in Data](https://ourworldindata.org/safest-sources-of-energy), it can be shown that nuclear energy produces the lowest emissions per unit of energy generated over its lifecycle, with wind and solar close behind. The variation in the estimates for biomass emissions is caused by differences in which plant matter is being burn. For example, burning excess crops produces less emissions than burning trees.
 
@@ -66,7 +66,7 @@ Using data compiled by [Our World in Data](https://ourworldindata.org/safest-sou
 | Natural Gas   | 490                               |
 | Coal          | 820                               |
 
-*Danger*
+## Danger
 
 Again using data compiled by [Our World in Data](https://ourworldindata.org/safest-sources-of-energy), it is evident that solar, hydropower, wind, and nuclear are all associated with very few deaths per unit of energy generated over their lifecycle. Notably, the estimates for nuclear energy include all deaths related to the Chernobyl and Fukushima disasters, as well as occupational accidents from mining and milling.
 
@@ -80,7 +80,7 @@ Again using data compiled by [Our World in Data](https://ourworldindata.org/safe
 | Biomass          | 4.6                     |
 | Coal             | 24.6                    |
 
-*Land Use*
+## Land Use
 
 A report commissioned by the [United Nations Convention to Combat Desertification](http://iinas.org/tl_files/iinas/downloads/land/IINAS_2017_UNCCD-IRENA_Energy-Land_paper.pdf#page=8) reveals that nuclear energy and natural gas require the least amount of land per unit of energy generated over their lifecycle. Again, the variation for biomass estimates is caused by differences in which plant matter is being burn.
 
@@ -98,7 +98,7 @@ The graph can be recreated with biomass excluded to better compare the land use 
 
 ![no-alignment]({{ '/images/2022-02-28-energy-disadvantages/disadvantages_solar_battery.png' | absolute_url }})
 
-*Building Materials*
+## Building Materials
 
 Energy production plants that require more materials to build can be more vulernable to [supply chain shocks or shortages](https://www.bloomberg.com/news/articles/2021-09-30/solar-power-giants-warn-of-delays-amid-supply-chain-disruptions). The [U.S. Department of Energy](https://www.energy.gov/sites/prod/files/2017/03/f34/qtr-2015-chapter10.pdf#page=14) provides a breakdown of the materials required, on average, for each unit of energy generated over the plant's lifecycle. Building natural gas, nuclear, biomass, and coal facilities require substantively less building materials per unit of energy generated over their lifecycle.
 
@@ -116,7 +116,7 @@ Energy production plants that require more materials to build can be more vulern
 | Silicon                 | 0           | 0       | 0       | 0    | 0    | 0          | 57    |
 | Steel                   | 170         | 160     | 310     | 310  | 1,800| 67         | 7,900 |
 
-*Cost*
+## Cost
 
 Finally, the [U.S. Energy Information Administration](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf#page=8) provides data on the costs of energy production. Solar energy without battery storage beyond four hours is by far the cheapest per unit of energy generated over its lifecycle.
 
