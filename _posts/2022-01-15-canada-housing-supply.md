@@ -1,8 +1,8 @@
 ---
 title: "Have Canadian housing completions kept up with population growth?"
 image:
-  path: /images/2021-01-15-canada-housing-supply/cover.png
-  thumbnail: /images/2021-01-15-canada-housing-supply/thumbnail.png
+  path: /images/2022-01-15-canada-housing-supply/cover.png
+  thumbnail: /images/2022-01-15-canada-housing-supply/thumbnail.png
 excerpt: "It is often claimed that the Canadian housing supply is not keeping up with population growth. Under analysis of Canada Mortgage and Housing Corporation (CMHC) data, however, this effect is not so clear-cut."
 search: false
 categories:
@@ -14,7 +14,7 @@ tags:
   - canada
   - completions
   - population growth
-last_modified_at: 2021-01-15T21:57:00-05:00
+last_modified_at: 2022-01-15T21:57:00-05:00
 ---
 
 # Key takeaways:
@@ -26,7 +26,7 @@ last_modified_at: 2021-01-15T21:57:00-05:00
 **Canadian Housing Crisis** A significant rise in Canadian real estate prices beginning in 2002 that has caused housing to become increasingly unaffordable.
 {: .notice}
 
-It is [often claimed](https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.housing.housing-note.housing-note--may-12-2021-.html) that the Canadian housing supply is not keeping up with population growth. Factors such as post-2016 increases in immigration are frequently cited for contributing to rising real estate prices by growing the Canadian population faster than houses can be built. Under analysis of Canada Mortgage and Housing Corporation (CMHC) data, however, this effect is not so clear-cut.
+It is [often claimed](https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.housing.housing-note.housing-note--may-12-2022-.html) that the Canadian housing supply is not keeping up with population growth. Factors such as post-2016 increases in immigration are frequently cited for contributing to rising real estate prices by growing the Canadian population faster than houses can be built. Under analysis of Canada Mortgage and Housing Corporation (CMHC) data, however, this effect is not so clear-cut.
 
 **Population Change** The net change in population due to net natural increase and net migration.
 {: .notice}
@@ -34,7 +34,7 @@ It is [often claimed](https://www.scotiabank.com/ca/en/about/economics/economics
 **Housing Completions** The number of new housing units made ready for occupancy.
 {: .notice}
 
-![no-alignment]({{ '/images/2021-01-15-canada-housing-supply/pop_and_completions.png' | absolute_url }})
+![no-alignment]({{ '/images/2022-01-15-canada-housing-supply/pop_and_completions.png' | absolute_url }})
 
 Though immigration has increased in recent years, Canada's low birth rates and aging population (along with emigration) have served to moderate population growth. Previous decades have even sustained higher population increases than current rates.
 
@@ -64,7 +64,7 @@ Similarly, the raw number of housing completions in Canada has remained above hi
 
 Putting these two metrics together, a more informative ratio of housing completions to population change can be obtained.
 
-![no-alignment]({{ '/images/2021-01-15-canada-housing-supply/annual_completions_to_pop.png' | absolute_url }})
+![no-alignment]({{ '/images/2022-01-15-canada-housing-supply/annual_completions_to_pop.png' | absolute_url }})
 
 As shown in the above graph, Canada's ratio of new housing completions to population growth has remained close to historic averages in recent years. In fact, the ratio of new housing completions to population growth doesn't appear to have followed any clear trend since the 1980s. 
 
@@ -108,7 +108,7 @@ Though completion rates for semi-detached houses and row houses, commonly referr
 
 Understanding housing completions in terms of houses built per population increase can be somewhat unintuitive. To produce a more accessible metric, the ratio can be flipped to show the population increase per housing completion. For example, instead of saying that 483.8 houses were built for every 1,000 people added to the Canadian population between 2010 to 2020, it can be said that one house was built for every 2.07 people that were added to the population.
 
-![no-alignment]({{ '/images/2021-01-15-canada-housing-supply/annual_pop_to_completions.png' | absolute_url }})
+![no-alignment]({{ '/images/2022-01-15-canada-housing-supply/annual_pop_to_completions.png' | absolute_url }})
 
 When put into these terms, houses appear to be built at a higher rate than the average household size, reported to be [2.47 people](https://www150.statcan.gc.ca/n1/pub/62f0026m/2017002/app-ann-g-eng.htm) in 2016 — as would be necessary to meet housing needs and replace demolished or repurposed units.
 
@@ -136,7 +136,7 @@ Though it is possible to visually examine patterns in housing completion, the ac
 
 These values can be interpreted as the trend of the housing ratio for the specified time period. For example, Between 1948 and 2021, the number of annual housing completions per 1,000 increase in population grew, on average, by 3.43 houses per year. In other words, on average, Canadian housing completions grew at a faster rate than the population during this time period. This relationship is statistically significant. 
 
-![no-alignment]({{ '/images/2021-01-15-canada-housing-supply/trend_completions_to_pop.png' | absolute_url }})
+![no-alignment]({{ '/images/2022-01-15-canada-housing-supply/trend_completions_to_pop.png' | absolute_url }})
 
 Notably, analyzing different time periods will yield different trends. Between 1970 and 2021, on average the number of annual housing completions per 1,000 increase in population decreased. Yet from 1980 to 2021, 2000 to 2021, and 2010 to 2021 there were no statistically significant changes in the ratio. In fact, the only way to claim that the ratio of housing completions to population increases has been declining is to compare current data with data from the 1970s.
 
