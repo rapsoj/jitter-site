@@ -97,7 +97,7 @@ A report commissioned by the [United Nations Convention to Combat Desertificatio
 
 The graph can be recreated with biomass excluded to better compare the land use of other energy sources.
 
-![no-alignment]({{ '/images/2022-02-28-energy-disadvantages/disadvantages_solar_battery.png' | absolute_url }})
+![no-alignment]({{ '/images/2022-02-28-energy-disadvantages/disadvantages_no_biomass.png' | absolute_url }})
 
 ## Building Materials
 
@@ -135,7 +135,7 @@ The range in costs for wind power is because offshore wind is substantially more
 
 Importantly, solar energy without a longer duration of energy storage cannot be used to meet grid demand at all times. When the costs of battery storage are considered, the range of possible costs for solar energy increases considerably.
 
-![no-alignment]({{ 'images/2022-02-28-energy-disadvantages/disadvantages_no_biomass.png' | absolute_url }})
+![no-alignment]({{ '/images/2022-02-28-energy-disadvantages/disadvantages_solar_battery.png' | absolute_url }})
 
 # Why weren't additional energy metrics chosen?
 
