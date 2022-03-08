@@ -84,7 +84,7 @@ Again using data compiled by [Our World in Data](https://ourworldindata.org/safe
 
 A report commissioned by the [United Nations Convention to Combat Desertification](http://iinas.org/tl_files/iinas/downloads/land/IINAS_2017_UNCCD-IRENA_Energy-Land_paper.pdf#page=8) reveals that nuclear energy and natural gas require the least amount of land per unit of energy generated over their lifecycle. Again, the variation for biomass estimates is caused by differences in which plant matter is being burn.
 
-| Energy Source    | Land Use (m^2 per MWh) |
+| Energy Source    | Land Use (m<sup>2<\sup> per MWh) |
 |------------------|------------------------|
 | Nuclear          | 0.1                    |
 | Natural Gas      | 0.2                    |
