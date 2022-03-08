@@ -26,9 +26,7 @@ last_modified_at: 2022-01-15T21:57:00-05:00
 **Canadian Housing Crisis** A significant rise in Canadian real estate prices beginning in 2002 that has caused housing to become increasingly unaffordable.
 {: .notice}
 
-It is [often claimed](https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.housing.housing-note.housing-note--may-12-2021-.html) 
-
-that the Canadian housing supply is not keeping up with population growth. Factors such as post-2016 increases in immigration are frequently cited for contributing to rising real estate prices by growing the Canadian population faster than houses can be built. Under analysis of Canada Mortgage and Housing Corporation (CMHC) data, however, this effect is not so clear-cut.
+It is [often claimed](https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.housing.housing-note.housing-note--may-12-2021-.html) that the Canadian housing supply is not keeping up with population growth. Factors such as post-2016 increases in immigration are frequently cited for contributing to rising real estate prices by growing the Canadian population faster than houses can be built. Under analysis of Canada Mortgage and Housing Corporation (CMHC) data, however, this effect is not so clear-cut.
 
 **Population Change** The net change in population due to net natural increase and net migration.
 {: .notice}
