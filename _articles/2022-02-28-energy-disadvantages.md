@@ -56,7 +56,7 @@ Due to a lack of available data on battery storage, all comparisons made for sol
 
 Using data compiled by [Our World in Data](https://ourworldindata.org/safest-sources-of-energy), it can be shown that nuclear energy produces the lowest emissions per unit of energy generated over its lifecycle, with wind and solar close behind. The variation in the estimates for biomass emissions is caused by differences in which plant matter is being burn. For example, burning excess crops produces less emissions than burning trees.
 
-| Energy Source | Emissions (Tonnes CO_2eq per GWh) |
+| Energy Source | Emissions (Tonnes CO<sub>2</sub>eq per GWh) |
 |---------------|-----------------------------------|
 | Nuclear       | 3                                 |
 | Wind          | 4                                 |
