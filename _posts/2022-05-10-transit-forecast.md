@@ -122,7 +122,7 @@ Where the values in the table are the forecasted change in transit station visit
 
 All the cities examined are forecasted to have ridership remain below pre-pandemic levels by May 2024, though some recovery is predicted during that time interval. Paris is predicted to have the best overall recovery by the end of the two years, while Brisbane is predicted to have the worst. Relative to current levels, Philadelphia is predicted to have the greatest absolute gains in ridership while Brisbane is predicted to have the smallest.
 
-In general, the model shows that cities that still have pandemic measures in place or have only recently lifted restrictions are likely to see some recovery as public health measures continue to ease. Conversely, cities that have had measures lifted for a longer period of time have likely already realized most of the ridership gains from lifting restrictions
+In general, the model shows that cities that still have pandemic measures in place or have only recently lifted restrictions are likely to see some recovery as public health measures continue to ease. Conversely, cities that have had measures lifted for a longer period of time have likely already realized most of the ridership gains from lifting restrictions.
 
 Overall, the forecast implies a "new normal" for transit ridership, with no full recovery in sight for at least the next two years. It is important that fare-dependent transit providers have access to such forecasts so that they can seek the appropriate funding structures to preserve operations until ridership fully recovers.
 
