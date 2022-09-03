@@ -6,9 +6,12 @@ image:
 excerpt: "With the surge in bicycle use over the course of the COVID-19 pandemic, municipalities around the world are experiencing a unique opportunity to transform urban spaces to be more cyclist-friendly."
 search: false
 categories:
-  - 
+  - Infrastructure
+  - Transportation
 tags:
-  - 
+  - cycling
+  - modal shift
+  - bike network
 last_modified_at: 2022-08-30T22:50:00-05:00
 ---
 
