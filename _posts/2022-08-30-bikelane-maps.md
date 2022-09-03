@@ -87,5 +87,3 @@ The bike network maps can be used for advocacy in improving bike network density
 ![no-alignment]({{ '/images/2022-08-30-bikelane-maps/shirt.png' | absolute_url }})
 
 All materials have been made free to download [here](https://github.com/Saamoz/BikelaneVisualizer).
-
-*All materials and code can be found [here](https://github.com/Saamoz/BikelaneVisualizer).*
