@@ -64,7 +64,7 @@ Cities were chosen based population and were limited to regions with bike lane d
 
 Mapping bike networks in the way highlights differences between connectivity and density across cities. For example, the [top three cyclist-friendly cities](https://copenhagenizeindex.eu/) in the world (Copenhagen, Amsterdam, and Antwerp) 
 
-![no-alignment]({{ '/images/2022-08-30-bikelane-maps/copengaen.png' | absolute_url }})
+![no-alignment]({{ '/images/2022-08-30-bikelane-maps/copenhagen.png' | absolute_url }})
 
 ![no-alignment]({{ '/images/2022-08-30-bikelane-maps/amsterdam.png' | absolute_url }})
 
