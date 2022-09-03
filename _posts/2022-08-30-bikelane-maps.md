@@ -62,7 +62,7 @@ Using computer vision techniques and Google Map data, the bike networks in 100 c
 
 Cities were chosen based population and were limited to regions with bike lane data in Google maps.
 
-Mapping bike networks in the way highlights differences between connectivity and density across cities. For example, the [top three cyclist-friendly cities](https://copenhagenizeindex.eu/) in the world (Copenhagen, Amsterdam, and Antwerp) 
+Mapping bike networks in the way highlights differences between connectivity and density across cities. For example, the [top three cyclist-friendly cities](https://copenhagenizeindex.eu/) in the world (Copenhagen, Amsterdam, and Antwerp): 
 
 ![no-alignment]({{ '/images/2022-08-30-bikelane-maps/copenhagen.png' | absolute_url }})
 
@@ -70,9 +70,9 @@ Mapping bike networks in the way highlights differences between connectivity and
 
 ![no-alignment]({{ '/images/2022-08-30-bikelane-maps/antwerp.png' | absolute_url }})
 
-For these cities, the bike network is evidently very well-connected. The city can be clearly recognized from the bike network alone, indicating that cylists should be able to traverse the city similarly to personal vechiles.
+For these cities, the bike network is evidently very dense and well-connected. The city can be clearly recognized from the bike network alone, indicating that cylists should be able to traverse the city similarly to personal vechiles.
 
-This is contrasted with the sparse, disconnected bike networks in cities with [some of the least cyclist-friendly cities](https://anytimeestimate.com/research/most-bike-friendly-cities-us-2022/) in the United States (Dallas, Nashville, and Memphis). 
+This is contrasted with the sparse, disconnected bike networks in cities with [some of the least cyclist-friendly cities](https://anytimeestimate.com/research/most-bike-friendly-cities-us-2022/) in the United States (Dallas, Nashville, and Memphis):
 
 ![no-alignment]({{ '/images/2022-08-30-bikelane-maps/dallas.png' | absolute_url }})
 
