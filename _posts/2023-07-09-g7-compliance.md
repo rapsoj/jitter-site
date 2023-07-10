@@ -27,7 +27,7 @@ last_modified_at: 2023-07-09T13:12:00-05:00
 
 # Key takeaways:
 
-* Fewer than two thirds of commitments made by leaders at past G7 commitments have been met in full
+* Fewer than two thirds of commitments made by leaders at past G7 summits have been met in full
 * An interactive AI-based tool was built using data from commitments made at past G7 summits
 * The tool determines the probability that each member nation will meet the commitments it makes at summits
 
