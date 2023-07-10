@@ -1,5 +1,5 @@
 ---
-title: "Can predictive AI improve the efficacy of international organisations like the G7?"
+title: "Can predictive AI improve the efficacy of the G7?"
 image:
   path: /images/2023-07-090-g7-compliance/cover.png
   thumbnail: /images/2023-07-09-g7-compliance/thumbnail.png
