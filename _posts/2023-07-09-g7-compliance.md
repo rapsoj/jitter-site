@@ -1,8 +1,8 @@
 ---
 title: "Can predictive AI improve the efficacy of international organisations like the G7?"
 image:
-  path: /images/2023-07-10-g7-compliance/cover.png
-  thumbnail: /images/2023-07-10-g7-compliance/thumbnail.png
+  path: /images/2023-07-09-g7-compliance/cover.png
+  thumbnail: /images/2023-07-09-g7-compliance/thumbnail.png
 excerpt: "For the G7 to succeed in its mission, it is critically important that member nations follow through with the commitments that they make. An interactive AI-based tool that determines the probability of each member nation meeting its commitments may improve the efficacy of the G7."
 categories:
   - Development
@@ -39,11 +39,11 @@ For the first time, data on commitment outcomes collected by the G7 Research Gro
 
 [Past research](https://www.globalgovernanceproject.org/increasing-the-impact-of-the-g7-2/) has shown that the underlying factors behind whether G7 member nations will comply with commitments primarily relate to immutable properties such as the economic position of the country or past compliance with similar commitments. These factors cannot be leveraged to improve the probability of compliance as they cannot be changed. However, by building a model to predict compliance, it becomes possible to identify which member nations are the least likely to meet their G7 commitments – enabling resources to be leveraged to assist the member nation in fulfilling their obligations. This could improve the overall efficacy of the G7. 
 
-![no-alignment]({{ '/images/2023-07-10-g7-compliance/tool1.png' | absolute_url }})
+![no-alignment]({{ '/images/2023-07-09-g7-compliance/tool1.png' | absolute_url }})
 
 The [G7 Compliance Simulator](https://g7-utoronto.shinyapps.io/compliance-tool/) seeks to do exactly this. Interested parties can access the tool online and enter relevant information to identify which member nations may need assistance in meeting their G7 obligations.
 
-![no-alignment]({{ '/images/2023-07-10-g7-compliance/tool2.png' | absolute_url }})
+![no-alignment]({{ '/images/2023-07-09-g7-compliance/tool2.png' | absolute_url }})
 
 # How does it work?
 
@@ -51,19 +51,19 @@ Using each G7 members’ historic performance on 655 individual commitments (a t
 
 This revealed that several key characteristics of summits and commitments, such as references to democracy or human rights, holding ministerial meetings before G7 summits, forming official G7 bodies in the relevant issue-area, and hosting the summit were associated with a significant increase in the probability of a given member nation complying with a specific G7 commitment.
 
-![no-alignment]({{ '/images/2023-07-10-g7-compliance/summit.png' | absolute_url }})
+![no-alignment]({{ '/images/2023-07-09-g7-compliance/summit.png' | absolute_url }})
 
 Similarly, the summit host country appeared to influence levels of compliance. Compliance levels were higher when the United Kingdom hosted the G7 summit and lower when France and Canada hosted.
 
-![no-alignment]({{ '/images/2023-07-10-g7-compliance/host.png' | absolute_url }})
+![no-alignment]({{ '/images/2023-07-09-g7-compliance/host.png' | absolute_url }})
 
 There was also variation in the probability of compliance between G7 members. The European Union and United Kingdom were more likely to fulfill commitments, while France, Japan, and Italy were less likely to do so.
 
-![no-alignment]({{ '/images/2023-07-10-g7-compliance/member.png' | absolute_url }})
+![no-alignment]({{ '/images/2023-07-09-g7-compliance/member.png' | absolute_url }})
 
 Finally, compliance probability varied by the commitment’s area of focus. Compliance was more likely for commitments regarding social policy, international cooperation, information and communications technology (ICT) and digitization, labour and employment, and energy. Commitments were less likely to be achieved for commitments regarding education and gender.
 
-![no-alignment]({{ '/images/2023-07-10-g7-compliancet/issue.png' | absolute_url }})
+![no-alignment]({{ '/images/2023-07-09-g7-compliancet/issue.png' | absolute_url }})
 
 # What are the caveats of this approach? 
 
