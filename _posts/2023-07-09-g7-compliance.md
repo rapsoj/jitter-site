@@ -74,4 +74,5 @@ Nonetheless, there is hope for increasing G7 effectiveness. All the significant 
 Increasing G7 effectiveness by leveraging patterns associated with higher probabilities of compliance is extremely difficult, as most performance is likely determined by factors outside the control of the organization. However, by using available data to predict future compliance, it may be possible to direct resources to assist member nations at higher risk of failing to meet their obligations — thus improving the overall ability of the G7 to achieve its goals.
 
 *All data and code for this analysis can be found [here](https://github.com/rapsoj/g7-compliance).*
+
 *The G7 Compliance Simulator can be accessed [here](https://g7-utoronto.shinyapps.io/compliance-tool/).*
