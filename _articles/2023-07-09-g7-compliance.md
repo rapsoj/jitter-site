@@ -29,7 +29,7 @@ last_modified_at: 2023-07-09T13:12:00-05:00
 
 * Fewer than two thirds of commitments made by leaders at past G7 commitments have been met in full
 * An interactive AI-based tool was built using data from commitments made at past G7 summits
-* The tool determines the probability of each member nation meeting the commitments made at summits
+* The tool determines the probability that each member nation will meet the commitments it makes at summits
 
 During its almost 50-year existence, [the G7 has served as an international forum](https://en.wikipedia.org/wiki/G7) for promoting the liberal and democratic ideals championed by its members. To this effect, the organization has collectively made over six thousand commitments to tackle issues such as global development, climate change, health policy and financial regulation. Historically, however, only 62\% of these commitments have been met in full. For the G7 to succeed in its mission, it is critically important that member nations comply with the commitments that they themselves make.
 
